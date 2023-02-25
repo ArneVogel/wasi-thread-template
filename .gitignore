@@ -1,0 +1,3 @@
+threads.wasm
+wasi-sdk/
+wasmtime/
